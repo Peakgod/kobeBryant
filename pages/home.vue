@@ -26,7 +26,7 @@
       <a href="#" class="logo"></a>
       <p>Warm little family</p>
       <h1>
-        Shuiyi Ｉ Lᵒᵛᵉᵧₒᵤ
+        Suiyi Ｉ  Lᵒᵛᵉᵧₒᵤ
         <br/>
         Rourou <span>❥</span>
       </h1>
